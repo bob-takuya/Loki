@@ -1,0 +1,8 @@
+{
+  "/page": "app/page.js",
+  "/location-permission/page": "app/location-permission/page.js",
+  "/create-post/page": "app/create-post/page.js",
+  "/terms/page": "app/terms/page.js",
+  "/privacy/page": "app/privacy/page.js",
+  "/map/page": "app/map/page.js"
+}
